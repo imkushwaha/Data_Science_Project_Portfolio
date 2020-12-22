@@ -5,8 +5,8 @@ For a more visually pleasant experience for browsing the portfolio, check out ht
 
 For well explanantion of projects done in R Studio, i have done those with the help of Kaggle R-Kernel to show input and output at same place for better understanding.
 
-## Project(1): Property Price Prediction
+#### Project(1): Property Price Prediction
 Link:https://www.kaggle.com/imkushwaha/project-property-price-prediction
 
-## Project(2): Bank Credit Card Default Prediction
+#### Project(2): Bank Credit Card Default Prediction
 Link:https://www.kaggle.com/imkushwaha/project-bank-credit-card-default-prediction
