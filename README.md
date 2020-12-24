@@ -19,6 +19,8 @@ Link:https://www.kaggle.com/imkushwaha/project-wine-classification
 
 # Machine Learning
 
+## Machine Learning in R
+
 ### Property Price Prediction
 
 A model to predict the price of the property from the dataset having attributes such as sale type, sale condition etc. Identified the best price that a client can sell their house utilizing machine learning.
@@ -31,6 +33,8 @@ A classification model using linear discriminant analysis to classify the wine c
 
 ### Churn Analysis in Telecom Industry
 A classification models using decision tree algorithm to predict whether the customer be churned or not on the basis of its billing information and customer demographics.
+
+## Machine Learning in Python
 
 ### Forecasting and Predicting the Furniture Sales
 Time Series (ARIMA) to build model to predict and forecast the sales of furniture for the next one year i.e. predict future values based on previously observed values. We have a 4-year furniture sales data. 
