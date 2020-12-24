@@ -10,3 +10,6 @@ Link:https://www.kaggle.com/imkushwaha/project-property-price-prediction
 
 #### Project(2): Bank Credit Card Default Prediction
 Link:https://www.kaggle.com/imkushwaha/project-bank-credit-card-default-prediction
+
+#### Project(3): Wine Classification
+Link:https://www.kaggle.com/imkushwaha/project-wine-classification
