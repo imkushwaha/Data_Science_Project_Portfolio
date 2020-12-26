@@ -14,6 +14,11 @@ Link:https://www.kaggle.com/imkushwaha/project-bank-credit-card-default-predicti
 #### Project(3): Wine Classification
 Link:https://www.kaggle.com/imkushwaha/project-wine-classification
 
+#### Project(4): Churn Analysis in Telecom Industry
+Link:https://www.kaggle.com/imkushwaha/project-churn-analysis-in-telecom-industry
+
+
+
 
 # Contents
 
