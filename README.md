@@ -50,7 +50,7 @@ K-means clustering model to classify the interest of teenagers by using various 
 ### Dimensionality Reduction for the House dataset attribute
 Using principal component analysis, to reduce the data dimensions for the housing data attributes.
 
-### Property Price Prediction
+### Property Price Prediction With Stochastic Gradient Descent
 A a linear regression model with stochastic gradient descent to predict the price of the property from the dataset having attributes such as sale type, sale condition etc. 
 
 ### Good and Bad Customers for Granting Credit
